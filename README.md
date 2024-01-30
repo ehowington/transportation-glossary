@@ -232,6 +232,13 @@
     <td></td>
     <td></td>
   </tr>
+    <tr>
+    <td><strong>TIF</strong></td>
+    <td>Tax Increment Financing</td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td><strong>TIP</strong></td>
     <td>Transportation Improvement Plan</td>
