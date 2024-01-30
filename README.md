@@ -11,7 +11,7 @@
   <tr>
     <td><strong>AASHTO</strong></td>
     <td>American Association of State Highway and Transportation Officials</td>
-    <td>Federal</td>
+    <td>National</td>
     <td></td>
     <td></td>
   </tr>
@@ -32,7 +32,7 @@
   <tr>
     <td><strong>COG</strong></td>
     <td>Council of Governments</td>
-    <td></td>
+    <td>Regional</td>
     <td></td>
     <td></td>
   </tr>
@@ -106,6 +106,13 @@
     <td></td>
     <td>1991</td>
   </tr>
+    <tr>
+    <td><strong>ITE</strong></td>
+    <td>Institute of Transportation Engineers</td>
+    <td>National</td>
+    <td></td>
+    <td></td>
+  </tr>
   <tr>
     <td><strong>LOS</strong></td>
     <td>Level of Service</td>
@@ -144,14 +151,14 @@
   <tr>
     <td><strong>MUCTD</strong></td>
     <td>Manual on Uniform Traffic Control Devices</td>
-    <td>Federal</td>
+    <td>National</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td><strong>NACTO</strong></td>
     <td>National Association of City Transportation Officials</td>
-    <td>Federal</td>
+    <td>National</td>
     <td></td>
     <td></td>
   </tr>
@@ -242,7 +249,7 @@
   <tr>
     <td><strong>TMA</strong></td>
     <td>Transportation Management Area</td>
-    <td></td>
+    <td>Local</td>
     <td></td>
     <td></td>
   </tr>
@@ -256,21 +263,21 @@
   <tr>
     <td><strong>TSP</strong></td>
     <td>Transportation System Plan</td>
-    <td></td>
+    <td>Regional, Local</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td><strong>UGB</strong></td>
     <td>Urban Growth Boundary</td>
-    <td></td>
+    <td>Local, Regional</td>
     <td></td>
     <td></td>
   </tr>
   <tr>
     <td><strong>UZA</strong></td>
     <td>Urbanized Areas</td>
-    <td></td>
+    <td>Local, Regional</td>
     <td></td>
     <td></td>
     <td></td>
